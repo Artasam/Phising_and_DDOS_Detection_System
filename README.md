@@ -1,5 +1,7 @@
 ## 🛡️ Phishing & DDoS Detection Agent
 
+Streamlit App: https://phisingandddosdetectionsystem-33rhpdbdm5shyew9hd7esf.streamlit.app/
+
 Hybrid cybersecurity assistant that detects **phishing emails** and **DDoS traffic** using:
 
 - **Rule-based heuristics** (URL, attachment, text and traffic patterns)
